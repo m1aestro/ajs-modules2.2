@@ -1,3 +1,7 @@
+/* eslint-disable max-classes-per-file */
+/* eslint-disable no-unused-vars */
+/* eslint-disable class-methods-use-this */
+/* eslint-disable no-console */
 import Character from './domain';
 
 export default class Game {
